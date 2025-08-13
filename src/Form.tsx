@@ -21,7 +21,7 @@ const Form: React.FC = () => {
 
   return (
     <div>
-      <h2>Настройка формы</h2>
+      <h2>Настройка формы N1</h2>
       <div>
         <label>
           Input:
